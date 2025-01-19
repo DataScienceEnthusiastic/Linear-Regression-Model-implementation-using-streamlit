@@ -6,3 +6,6 @@ We have used streamlit for delpoying the model:
      use the command in terminal "python -m streamlit run app.py" to run the application on your default web browser
 
 The Output of looks like this : 
+
+![heeeeee](https://github.com/user-attachments/assets/e7aa5929-fb4f-48b5-b681-a4e8203bf2fe)
+
